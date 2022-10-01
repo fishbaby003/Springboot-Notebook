@@ -1,24 +1,3 @@
-<div align="center">
-    <p style="font-size:25px;font-weight: 800;">Springboot-Notebook</p>
-</div>
-<div align="center" style="text-align:center;margin-top:30px;margin-bottom:20px">
-   <a style="padding-left:10px"><img src="https://img.shields.io/github/stars/chengxy-nds/Springboot-Notebook"/></a>
-   <a style="padding-left:10px"><img src="https://img.shields.io/github/forks/chengxy-nds/Springboot-Notebook?color=red&logo=red"/></a>
-   <a style="padding-left:10px" href="https://mp.weixin.qq.com/s/iogZNJ392dPuWZx_GSD4UA"><img src="https://img.shields.io/static/v1?label=%E5%85%AC%E4%BC%97%E5%8F%B7&message=%E7%A8%8B%E5%BA%8F%E5%91%98%E5%B0%8F%E5%AF%8C&color=success&&logo=wechat"/></a>
-   <a style="padding-left:10px" href="https://mp.weixin.qq.com/s/iogZNJ392dPuWZx_GSD4UA"><img src="https://img.shields.io/static/v1?label=%E5%BE%AE%E4%BF%A1&message=xinzhifu521&color=success&&logo=wechat"/></a>
-</div>
-
-> 本项目全部案例详细教程，同步在 个人公众号：**程序员小富** , 欢迎关注交流指正，加群学习
-
-<div style="text-align:">
-<img src='wx/gonghao.jpg' width="200" height="200">
-</div>
-
-![](wx/person.png)
-[**作者小富，目前就职京东，点击一起来了解下**](https://mp.weixin.qq.com/s?__biz=MzAxNTM4NzAyNg==&mid=2247500646&idx=1&sn=5a0993997dc1fc609da4eda5ba610681&chksm=9b86539bacf1da8d2bc22b569d27e1b7b85a21a0ec7d5a5f4a6660148a5f40f076e2d42e4885&token=1045698719&lang=zh_CN#rd)
-
----
-
 ### 介绍
 
 **Springboot-Notebook** 一个以 `springboot` 为基础开发框架，
