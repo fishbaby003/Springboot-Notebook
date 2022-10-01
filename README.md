@@ -170,14 +170,3 @@
 
 
 
-
-
-
-
-
-> 欢迎关注公众号、或者添加个人微信：xinzhifu521，加群学习
-
-<div style="text-align:">
-<img src='wx/gonghao.jpg' width="200" height="200">
-<img src='wx/wx.jpg' width="200" height="200">
-</div>
